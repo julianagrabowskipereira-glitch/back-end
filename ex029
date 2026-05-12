@@ -1,0 +1,7 @@
+velocidade = float(input("Qual e a velocidade atual do carго!"))
+multa (velocidade-80)*7
+if velocidade<-80:
+print("Tenha un bon dia! Dirija com segurança")
+else:
+print("Multado! Você excedeu o limite permitido que é de 80km/h. Você deve pagar uma multa de R$(:.2f)!".format
+(multa))
