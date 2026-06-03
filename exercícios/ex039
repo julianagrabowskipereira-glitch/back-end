@@ -1,0 +1,15 @@
+from datetime import date
+
+ano = int(input("Digite o ano que você nasceu: "))
+idade = date.today().year - ano
+
+if idade <= 9:
+    print("Mirim")
+elif idade <= 14:  # não precisa checar >9, o if anterior já cobre isso
+    print("Infantil")
+elif idade <= 19:  # não precisa checar >14, o elif anterior já cobre isso
+    print("Junior")
+elif idade <= 20:  # corrigido: condição correta
+    print("Senior")
+else:
+    print("Master")
