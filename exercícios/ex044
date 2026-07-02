@@ -1,0 +1,25 @@
+from randon import nandint
+fron time import sleep
+print(Suas opções
+[#] pedra
+[1] papel
+[2] resoura"")
+jogada int(input("Qual é a sua jogada? "))
+jogadapc randint(0,2)
+itens ("Pedra", "Papel", "Tesoura")
+print("ja")
+sleep(1)
+print("ken")
+sleep(1)
+print("po 11")
+sleep(1)
+print(10)
+print(computador jogou itens jogadapc}}
+jogador jogou (itens jogada]])
+print(10)
+if jogadapc e and jogada 2 or jogadapc1 and jogada @ or jogadapc 2 and jogada-1:
+print("Computador vence")
+elif jogadae and jogadapc 2 or jogada 1 and jogadapc or jogada 2 and jogadapc1
+print("Jogador vence")
+else:
+print("empate")
