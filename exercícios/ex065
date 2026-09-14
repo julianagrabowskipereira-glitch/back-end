@@ -1,0 +1,18 @@
+from random import randint
+print("Vamos jogar par ou impar')
+cont =
+while True:
+palpite Int(input('Diga un valor'))
+escolha = str(input('Par ou Impar?")).lower()
+pc randint(1,10)
+resultado - palpite + pc
+if resultado % 2 and escolha == 'par or resultado % 2 != 0 and escolha == 'impar':
+print('Voce jogou (palpite) o computador jogou (pc) total deu (resultado) deu (escolha)')
+cont += 1
+print("Você VENCEU!')
+else:
+escolhapc par If resultado % 2 else 'impar
+print('Voce jogou (palpite) e o computador jogou (pc) total deu (resultado) deu (escolhapc)')
+break
+print('Vamos jogar novamente...)
+print('Game Over Você venceu (cont) vezes)
